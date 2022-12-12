@@ -26,3 +26,7 @@ description: This documentation defines API requirements.
 
 
 
+/songs/\<id>/artists
+
+
+
