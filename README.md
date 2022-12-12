@@ -23,3 +23,5 @@ This is Finnerio Music App documentation regarding architecture, entities and DB
 {% embed url="https://github.com/Gonzasestopal/finnerio-music-api" %}
 
 {% embed url="https://github.com/Gonzasestopal/finnerio-music-scrapping" %}
+
+{% embed url="https://github.com/Gonzasestopal/finnerio-db-layer" %}
