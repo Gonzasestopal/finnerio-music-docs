@@ -38,7 +38,6 @@ Everything related to albums with the following properties
 id SERIAL Primary Key
 name String
 artist_id Integer Foreign Key 
-genre_id Integer Foreign Key
 ```
 
 ## Sons
@@ -50,5 +49,4 @@ id SERIAL Primary Key
 name String
 album_id Integer Foreign Key
 artist_id Integer Foreign Key
-genre_id Integer Foreign Key
 ```

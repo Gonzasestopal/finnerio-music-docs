@@ -1,5 +1,5 @@
 ---
-description: This documentation defines API requirements.
+description: This documentation defines API requirements following REST best practices.
 ---
 
 # API
@@ -8,25 +8,23 @@ description: This documentation defines API requirements.
 
 /genres/\<id>/subgenres
 
+/genres/\<id>/artists
 
 
-/artists?genre\_id=\<id>\&song\_id=\<id>
 
-/artists/\<id>
+/artists
 
 /artists/\<id>/albums
 
 
 
-/albums?artist\_id=\<id>
-
-/albums/\<id>
+/albums/
 
 /albums/\<id>/songs
 
 
 
-/songs/\<id>/artists
+/songs/\<id>
 
 
 
