@@ -7,3 +7,4 @@
 * [Architecture](reference/architecture.md)
 * [Entities](reference/entities.md)
 * [Database](reference/database.md)
+* [API](reference/api.md)
