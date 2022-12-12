@@ -15,3 +15,11 @@ This is Finnerio Music App documentation regarding architecture, entities and DB
 {% content-ref url="reference/database.md" %}
 [database.md](reference/database.md)
 {% endcontent-ref %}
+
+## Repositories
+
+{% embed url="https://github.com/Gonzasestopal/finnerio-music-backoffice" %}
+
+{% embed url="https://github.com/Gonzasestopal/finnerio-music-api" %}
+
+{% embed url="https://github.com/Gonzasestopal/finnerio-music-scrapping" %}
