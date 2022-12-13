@@ -20,7 +20,7 @@ description: This documentation defines API requirements following REST best pra
 
 /albums/
 
-/albums/\<id>/songs
+/albums/\<id>/
 
 
 
